@@ -29,8 +29,7 @@
 - 🔗 LinkedIn: https://www.linkedin.com/in/sunil-kumar99
 - 💻 GitHub: https://github.com/Sunil-Kumar8
   
-- ⚡ Fun fact:
-- 💡 I believe in "Learn → Build → Share → Repeat"
+- 💡 Fun fact: I believe in "Learn → Build → Share → Repeat"
 
 <!---
 Sunil-Kumar8/Sunil-Kumar8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
