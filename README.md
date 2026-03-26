@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sunil-Kumar8
-- <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=B.Tech+CSE+data science+Student;AI+%7C+Data+Science+Enthusiast;Future+Software+Engineer;Working+Data+Analytics;Building+Cool+Projects+🚀" /> </p>
+- 🎓 B.Tech CSE Data Science Student | 💻 Tech Enthusiast | 🚀 Aspiring Developer |📊Data Analyser
 
 🛠️ Tech Stack
   Languages: Python, C++, SQL
@@ -9,8 +9,9 @@
   Tools & Platforms: Git, GitHub, VS Code
 
 - 👀 I’m interested
-   Build impactful real-world projects
+   Build impactful real-world projects |Web Development
    Data Analytics role
+   AI | Data Science
    Stock market analysis
   
 - 🌱 I’m currently learning
