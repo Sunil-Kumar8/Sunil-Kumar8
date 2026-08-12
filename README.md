@@ -25,7 +25,7 @@
   📊 Take experience in Data Analytic
   
 - 📫 How to reach me
-- 📧 Email: shivroy9123@gmail.com -
+- 📧 Email: sunil.kmr2104@gmail.com -
 - 🔗 LinkedIn: https://www.linkedin.com/in/sunil-kumar99
 - 💻 GitHub: https://github.com/Sunil-Kumar8
   
